@@ -1,4 +1,4 @@
-# From-Scratch Multi-Input Deep CNN for Music Classification
+# From-Scratch Multi-Input Deep CNN for Music Genre Classification
 
 A deep Convolutional Neural Network built **entirely from scratch in PyTorch** without relying on standard high-level layers (`nn.Conv2d`, `nn.BatchNorm2d`, `nn.MaxPool2d`, `nn.Linear`, `nn.AdaptiveAvgPool2d`). The model processes synchronized 9-channel multi-input image triplets to classify audio-visual music representations into **16 categories**. Developed for the **CS776 Deep Learning for Computer Vision** competition at IIT Kanpur.
 
